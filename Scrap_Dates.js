@@ -1,6 +1,6 @@
 //Code to scrap date from  http://www.cgu.gov.br/assuntos/auditoria-e-fiscalizacao/programa-de-fiscalizacao-em-entes-federativos/edicoes-anteriores/municipios/
 //Place code in the console of a browser that uses JavaScript
-
+//For tutorial please see http://milenkofadic.com/en/scrapjs.html
 
 //Get a list of Elements 
 b=document.getElementsByClassName("summary-view-icon")
